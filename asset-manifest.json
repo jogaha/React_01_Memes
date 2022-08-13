@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//jogaha.github.io/React_01_Memes/static/css/main.ebc25412.css",
+    "main.js": "//jogaha.github.io/React_01_Memes/static/js/main.c01ff23c.js",
+    "static/js/787.2589b3e9.chunk.js": "//jogaha.github.io/React_01_Memes/static/js/787.2589b3e9.chunk.js",
+    "static/media/logo.svg": "//jogaha.github.io/React_01_Memes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//jogaha.github.io/React_01_Memes/index.html",
+    "main.ebc25412.css.map": "//jogaha.github.io/React_01_Memes/static/css/main.ebc25412.css.map",
+    "main.c01ff23c.js.map": "//jogaha.github.io/React_01_Memes/static/js/main.c01ff23c.js.map",
+    "787.2589b3e9.chunk.js.map": "//jogaha.github.io/React_01_Memes/static/js/787.2589b3e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc25412.css",
+    "static/js/main.c01ff23c.js"
+  ]
+}
